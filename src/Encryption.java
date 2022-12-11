@@ -1,7 +1,7 @@
 /*
  * Author: Zain AL Sudani
  * Date: 12/6/2022
- * Program name: Encryption
+ * Program name: Encryption {String Assignment}
  *
  * Agents at the VP secret foundation often have to exchange information.
  * It is very important that no one outside the foundation has access to this information.
